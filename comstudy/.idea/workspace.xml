@@ -4,75 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/solution/SpiralOrder.java" line="34" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f208335-7311-4b6b-9f01-ccb66ad7dadc" name="Default Changelist" comment="222232">
-      <change afterPath="$PROJECT_DIR$/src/main/java/clone/RecycleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/daili/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/daili/JDKDynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/daili/RealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/daili/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/daili/cglib/CglibProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/daili/cglib/CglibProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/daili/cglib/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/executors/Exxcutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/executors/ShutDownTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ext/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gctest/GC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashmapread/ArrAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashmapread/LinkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashmapread/RankInterupt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashmapread/RemoveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashmapread/TMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashmapread/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashmapread/TestHahMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/innerc/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/innerc/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iterator/IterorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/load/JavaMethodAreaOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oom/HeapOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oom/JavaVMStackSOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oom/JavaVMStackSOF1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oom/OOMObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oom/OOMObject1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oom/PossibleReordering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oom/RuntimeConstantPoolOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oom/StackOom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/option/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/option/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/option/OptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/option/ReduceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/psafe/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/psafe/VolatileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/resort/ReorderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution/Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution/JudgeCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution/LastRemaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution/PivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution/ReverseParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution/SigninController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution/SpiralOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solution/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="3f208335-7311-4b6b-9f01-ccb66ad7dadc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netty/ChatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netty/ChatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netty/ChatServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netty/ChatServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/a" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/ChatClient$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty/ChatClient$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/ChatClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty/ChatClient$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/ChatClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty/ChatClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/ChatServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty/ChatServer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/ChatServer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty/ChatServer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/ChatServer$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty/ChatServer$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty/ChatServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/netty/ChatServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty/ChatServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solution/NumEquivDominoPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solution/NumEquivDominoPairs.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -349,9 +282,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1776" />
-    <option name="height" value="1006" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -422,7 +356,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622834917376" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622835195669" />
     <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/asm/asm/3.3.1/asm-3.3.1.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -635,7 +569,7 @@
       <workItem from="1622593340101" duration="9615000" />
       <workItem from="1622610727612" duration="4155000" />
       <workItem from="1622951327796" duration="11114000" />
-      <workItem from="1622518147415" duration="41895000" />
+      <workItem from="1622518147415" duration="42140000" />
     </task>
     <task id="LOCAL-00001" summary="222232">
       <created>1621261804612</created>
@@ -644,11 +578,18 @@
       <option name="project" value="LOCAL" />
       <updated>1621261804612</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="代码提交">
+      <created>1622834946062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622834946062</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1156915000" />
+    <option name="totallyTimeSpent" value="1157160000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -771,8 +712,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="222232" />
-    <option name="LAST_COMMIT_MESSAGE" value="222232" />
+    <MESSAGE value="代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
