@@ -9,6 +9,8 @@ import io.netty.handler.codec.LineBasedFrameDecoder;
 import io.netty.handler.codec.string.StringDecoder;
 import io.netty.handler.codec.string.StringEncoder;
 import io.netty.util.CharsetUtil;
+import io.netty.util.concurrent.Future;
+import io.netty.util.concurrent.FutureListener;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -45,7 +47,13 @@ public class ChatClient {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             Channel channel = future.channel();
             while(true){
-                channel.writeAndFlush(br.readLine()+"\n");//直接通过channel进行发送
+                ChannelFuture feature = channel.writeAndFlush(br.readLine()+"\n");//直接通过channel进行发送});//<1>
+                feature.addListener(new FutureListener<Object>() {
+                    @Override
+                    public void operationComplete(Future<Object> objectFuture) throws Exception {
+                        System.out.println("发送结果:：" + objectFuture.get());
+                    }
+                });
             }
 
         }finally{

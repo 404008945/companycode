@@ -21,8 +21,10 @@ public class ChatServerHandler extends SimpleChannelInboundHandler<String> {
             if(channel != ch){
                 ctx.writeAndFlush(channel.remoteAddress()+": "+ msg+"\n");//通过channel，发送消息会走
             }else{
-                ChannelFuture future =  ctx.writeAndFlush("自己： "+msg+"\n");
+                ChannelFuture future =  ctx.write("自己： "+msg+"\n");
                 future.addListener((o)-> System.out.println("发送成功"));
+                System.out.println("开始flush");
+                ctx.flush();
             }
         });
                 channel.disconnect();

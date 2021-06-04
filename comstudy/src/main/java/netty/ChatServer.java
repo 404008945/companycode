@@ -20,7 +20,10 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class ChatServer {
    static final   EventExecutorGroup group = new DefaultEventExecutorGroup(16);
     public static void main(String[] args) throws InterruptedException {
-
+        NioEventLoopGroup ss = new NioEventLoopGroup(8);
+        ss.execute(()->{
+            System.out.println("Hello");
+        });
         NioEventLoopGroup bossGroup = new NioEventLoopGroup(1, new ThreadFactory() {
             AtomicInteger count = new AtomicInteger(0);
             @Override
@@ -54,7 +57,7 @@ public class ChatServer {
                                     .addLast(new StringDecoder(CharsetUtil.UTF_8))
                                     .addLast("e2",new StringEncoder(CharsetUtil.UTF_8))
                                     .addLast("e1",new ChatOutHandler())
-                                    .addLast(chatServerHandler);
+                                    .addLast("s2",new ChatServerHandler());
                         }
 
                     });
