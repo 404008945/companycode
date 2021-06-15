@@ -4,6 +4,9 @@ public  class Test {
     static {
         i=0;  //可以赋
     }
+    static {
+        System.out.println("hello");
+    }
     static int i=1;
     static class A{
         static {

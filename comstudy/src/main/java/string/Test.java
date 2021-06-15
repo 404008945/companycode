@@ -2,7 +2,18 @@ package string;
 
 
     public class Test {
+        Test(){
+            int a = 1/0;
+            return;
+        }
         public static void main(String[] args) {
+         Test t =  null;
+         try {
+             t= new Test();
+         }catch (Exception e){
+
+         }
+
             String s1 = new String("1");
             s1.intern();
             String s2 = "1";

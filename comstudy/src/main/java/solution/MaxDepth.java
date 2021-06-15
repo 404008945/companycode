@@ -17,4 +17,14 @@ public class MaxDepth {
     public int maxDepth(TreeNode root) {
        return dfs(root,0);
     }
+
+    public static void main(String[] args) {
+       int a = 5;
+       StringBuilder stringBuilder = new StringBuilder("11");
+
+      new Thread(()->{
+          System.out.println(a);
+      });
+
+    }
 }
